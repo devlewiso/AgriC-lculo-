@@ -19,8 +19,8 @@
 ✔ Inversionistas en tierras
 
 🔗 Enlaces Importantes:
-💻 Descarga el código (GitHub)
-🌐 Prueba ONLINE sin instalar (Google Colab)
+💻 Descarga el código [(GitHub)](https://github.com/devlewiso/AgriC-lculo-)
+🌐 Prueba ONLINE sin instalar [(Google Colab)](https://colab.research.google.com/drive/1pXB4MVkGlkRv_jpYOAVzOOsxg_K7y1kl?usp=sharing)
 📩 ¿Quieres una versión PERSONALIZADA? Contacto: devlewiso@gmail.com
 
 👉 Suscríbete para más herramientas agrícolas
